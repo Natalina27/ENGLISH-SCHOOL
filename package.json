@@ -1,10 +1,10 @@
 {
   "name": "js-personal-projects",
   "version": "0.0.1",
-  "description": "Lectrum JS + ES6 course personal projects",
+  "description": "JS + ES6 personal projects",
   "author": {
-    "name": "Andrey Prisniak",
-    "email": "aprisniak@lectrum.io"
+    "name": "English School",
+    "email": "natalyamyunster@gmail.com"
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js",
